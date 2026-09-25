@@ -21,7 +21,7 @@
 2. Run it. If Windows shows *"Windows protected your PC"*, click **More info → Run anyway**. The installer is new and not yet signed through the Microsoft Store.
 3. Follow the short setup: pick your mic and your game. The setup downloads the free local AI model for you.
 
-Echoless updates itself. Every version and its notes are on the [Releases](https://github.com/beeeegi/echoless-releases/releases) page.
+Echoless updates itself. Every version, its notes and its SHA-256 checksum are on the [Releases](https://github.com/beeeegi/echoless-releases/releases) page.
 
 ## What it does
 
