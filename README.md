@@ -6,6 +6,7 @@
   <a href="https://github.com/beeeegi/echoless-releases/releases/latest/download/Echoless-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-free%20for%20Windows%2010%20%26%2011-7c5cff?style=for-the-badge"></a>
   <a href="https://echoless.app"><img alt="echoless.app" src="https://img.shields.io/badge/website-echoless.app-14141e?style=for-the-badge"></a>
   <a href="https://github.com/beeeegi/echoless-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/beeeegi/echoless-releases?style=for-the-badge&color=9a82ff&label=latest"></a>
+  <a href="https://alternativeto.net/software/echoless/about/?utm_source=badge&utm_medium=referral"><img alt="Echoless on AlternativeTo" src="https://alternativeto.net/static/badges/badge-compact-color.svg" height="28"></a>
 </p>
 
 <p align="center">
